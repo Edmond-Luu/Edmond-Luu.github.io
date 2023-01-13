@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b30ceb07.css",
+    "main.js": "/static/js/main.56c622c6.js",
+    "static/media/tenzies.jpg": "/static/media/tenzies.353954e4155083e4dbb1.jpg",
+    "static/media/todolist.jpg": "/static/media/todolist.39dedf270189e77e852b.jpg",
+    "static/media/heroImage.jpg": "/static/media/heroImage.fb513187d4a420bd7512.jpg",
+    "static/media/currency.jpg": "/static/media/currency.3f9c9bcc4ab2c761b478.jpg",
+    "static/media/joke.jpg": "/static/media/joke.691ae48973cb2b5453f1.jpg",
+    "static/media/reactWeather.jpg": "/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/python.png": "/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/installNode.jpg": "/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/typescript.png": "/static/media/typescript.659e4b9351cf1baa6930.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.b30ceb07.css.map": "/static/css/main.b30ceb07.css.map",
+    "main.56c622c6.js.map": "/static/js/main.56c622c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30ceb07.css",
+    "static/js/main.56c622c6.js"
+  ]
+}
